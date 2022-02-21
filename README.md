@@ -1,0 +1,2 @@
+# galipeau-coin
+Galipeau cryptocurrency
